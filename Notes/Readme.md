@@ -1,1 +1,1 @@
-This is my notes that I had done along my journey learning programming (mostly python). Feel free to refer it. Feel free to contact me at ataullahht@gmail.com if you want to discuss with me about anything. 
+This is my notes that I had accumulate along my journey learning programming (mostly python) from various courses. Feel free to refer it and feel free to contact me at ataullahht@gmail.com if you want to discuss with me about anything. 
